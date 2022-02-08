@@ -11,6 +11,7 @@
 
 	<div class="row">
 		<?php echo $form->labelEx($model,'pizza_name'); ?>
+		<!-- hii -->
 		<?php echo $form->textField($model,'pizza_name',array('size'=>45,'maxlength'=>45)); ?>
 		<?php echo $form->error($model,'pizza_name'); ?>
 	</div>

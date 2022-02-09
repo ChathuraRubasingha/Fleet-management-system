@@ -83,13 +83,7 @@
             <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Maintenance</h4><img src="assets/1394120206_Administrative_Tools.png" alt=""></div></div>',array('maVehicleRegistry/maintenanceRegistry')); ?>
             <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Accident</h4><img src="assets/1394120485_Homegroup.png" alt=""></div></div>',array('tRAccident/accidentHistory')); ?>
             <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Reports</h4><img src="assets/1394121024_Sticky_Notes.png" alt=""></div></div>',array('notificationConfiguration/report')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Dashboard</h4><img src="assets/1394119936_Gadgets_alt.png" alt=""></div></div>	',array('dashboard/index')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Vehicle Registry</h4><img src="assets/1394119990_Device_Manager.png" alt=""></div></div>',array('maVehicleRegistry/edit')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Driver Details</h4><img src="assets/1394119971_Personal.png" alt=""></div></div>',array('/maDriver/admin')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Vehicle Booking</h4><img src="assets/1394120922_Mac_iCal.png" alt=""></div></div>',array('tRVehicleBooking/booking')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Maintenance</h4><img src="assets/1394120206_Administrative_Tools.png" alt=""></div></div>',array('maVehicleRegistry/maintenanceRegistry')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Accident</h4><img src="assets/1394120485_Homegroup.png" alt=""></div></div>',array('tRAccident/accidentHistory')); ?>
-            <?php echo CHtml::link('<div class="column4 box"><div class="box-img"><h4>Reports</h4><img src="assets/1394121024_Sticky_Notes.png" alt=""></div></div>',array('notificationConfiguration/report')); ?>
+
 
             <div class="clear"></div>
         </div>
